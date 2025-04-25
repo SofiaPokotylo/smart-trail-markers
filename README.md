@@ -46,6 +46,22 @@ To run the application, you need to have the following installed on your system:
 4. Application Overview
 * The application consists of four main pages:
   * Home Page: Provides links to system information and highlights the core features of the Smart Trail Markers project.
+    &nbsp;<img src="pages-images/main-page.png" alt="Main Page" width="700" />
   * Information Page: Displays real-time and historical data about weather conditions and trail visits, including warning banners for critical conditions. Users can filter data by date and time.
+    * Weather Conditions<br/> 
+    &nbsp;<img src="pages-images/weather-conditions.png" alt="Weather Conditions" width="700" />
+    * Attendance<br/>
+    &nbsp;<img src="pages-images/attendance.png" alt="Attendance" width="700" />
   * Routes Page: Shows detailed information about hiking routes, including marker statuses and locations.
+    * Routes<br/>
+    &nbsp;<img src="pages-images/routes.png" alt="Routes" width="700" />
+    * Markers<br/>
+    &nbsp;<img src="pages-images/markers.png" alt="Markers" width="700" />
   * Additional Features: Offers functionality to explore weather and visitor data with customizable filters and historical records.
+    Date and Time Selection<br/> 
+    &nbsp;<img src="pages-images/date-time.png" alt="Date and Time Selection" width="700" />
+5. CupCarbon scheme
+    * Scheme of markers<br/>
+    &nbsp;<img src="pages-images/scheme_cupcarbon.png" alt="CupCarbon Scheme" width="700" />
+    * Capturing an object with a motion sensor<br/>
+    &nbsp;<img src="pages-images/motion_sensor.png" alt="Motion Sensor" height="400" />
